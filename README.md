@@ -10,3 +10,6 @@ A simple python script is able to complete a sudoku just in few seconds. It uses
 
 ### How does it work?
 
+
+
+![alt text](https://github.com/lmarcinski/sudoku_12x12/blob/master/newfoldername/sudoku.png)
