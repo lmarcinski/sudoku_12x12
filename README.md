@@ -8,7 +8,7 @@ According to Guiness World Records the fastest sudoku was completed in 1 min 23.
 
 A simple python script is able to complete a sudoku just in few seconds. It uses [backtracking algorithm](https://en.wikipedia.org/wiki/Backtracking) which tests all possible paths till a solution is found or all paths have been tested.
 
-### How does it work?
+### Pygame app
 
 
 
