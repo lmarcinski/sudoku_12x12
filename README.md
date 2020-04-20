@@ -12,4 +12,4 @@ A simple python script is able to complete a sudoku just in few seconds. It uses
 
 
 
-![alt text](https://github.com/lmarcinski/sudoku_12x12/blob/master/newfoldername/sudoku.png)
+![alt text](https://github.com/lmarcinski/sudoku_12x12/blob/master/newfoldername/sudoku12x12.png)
