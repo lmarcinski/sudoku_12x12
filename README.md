@@ -50,9 +50,8 @@ def valid(bo, num, pos):
                 
     return True            
 ```
-
 ### Pygame app
-
+Everything was packed within the Pygame app.
 
 
 ![alt text](https://github.com/lmarcinski/sudoku_12x12/blob/master/newfoldername/sudoku12x12.png)
