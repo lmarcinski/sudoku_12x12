@@ -48,6 +48,7 @@ def valid(bo, num, pos):
             if bo[i][j] == num and (i,j) !=pos:
                 return False
                 
+    return True            
 ```
 
 ### Pygame app
