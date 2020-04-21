@@ -56,4 +56,6 @@ Everything was packed within the Pygame app.
 
 ![alt text](https://github.com/lmarcinski/sudoku_12x12/blob/master/newfoldername/sudoku12x12.png)
 
-Perhaps we could also implement the Opencv solutions and analyze the real-paper sudoku. 
+___________________________________________________________________________________________________________________________
+
+Perhaps we could also implement the Opencv solutions and analyze the real-paper sudoku...
